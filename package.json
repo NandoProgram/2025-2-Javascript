@@ -1,0 +1,20 @@
+{
+  "name": "2025-2-javascript",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene los ejercicios prácticos organizados por semanas y clases del curso **\"Introducción a la Programación con JavaScript\"**. Los ejercicios se ejecutan en Node.js y están diseñados para personas sin experiencia previa en programación.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NandoProgram/2025-2-Javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NandoProgram/2025-2-Javascript/issues"
+  },
+  "homepage": "https://github.com/NandoProgram/2025-2-Javascript#readme"
+}
