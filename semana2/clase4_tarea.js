@@ -43,7 +43,6 @@ function analizarCalificaciones(numeros) {
 
 
 async function main() {
-    console.log("hola");
   const datos = [70, 80, 90, 100, 85, 15, 20];
   const estadistica = analizarCalificaciones(datos);
   console.log(`El resumen estadístico de: ${datos}`);
