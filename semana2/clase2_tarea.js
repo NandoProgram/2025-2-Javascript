@@ -20,7 +20,7 @@ async function main() {
   let frutas = [];
 
   while (opcion !== '4') {
-    opcion = await ask('¿Qué deseas hacer? \n1. Agregar una fruta \n2. Eliminar una fruta\n3. Ver lista de frutas \n4. Salir\n');
+    opcion = await ask('¿Qué deseas hacer? 1. Agregar una fruta \n2. Eliminar una fruta\n3. Ver lista de frutas \n4. Salir\n');
     if (opcion === '1') {
       //Agregar
       let frutaNueva = await ask('¿Qué fruta deseas agregar?: ');
